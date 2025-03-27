@@ -56,6 +56,19 @@ REST API 및 CRUD 기능 구현과 Spring Security를 활용한 인증/인가 �
   </tr>
 </table>
 
+### **📫 My channels ...**
+
+<div align=left >
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=glsh0725&show_icons=true" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=glsh0725&layout=compact&exclude_repo=python-practice" />
+</div>
+
+<a href="https://github.com/glsh0725?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+</a>
+<br/>
+
+
 <!--
 **glsh0725/glsh0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
