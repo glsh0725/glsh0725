@@ -12,7 +12,6 @@ REST API 및 CRUD 기능 구현과 Spring Security를 활용한 인증 시스템
 새로운 기술을 배우는 것을 즐기며, 변화하는 환경에 유연하게 적응하며 성장하는 개발자가 되고자 합니다.<br/>
 
 ---
-<br/>
 
 ### 🧐 Skills Set
 
@@ -55,6 +54,8 @@ REST API 및 CRUD 기능 구현과 Spring Security를 활용한 인증 시스템
     </td>
   </tr>
 </table>
+
+---
 
 ### **📫 My channels ...**
 
