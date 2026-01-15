@@ -59,9 +59,11 @@ REST API 및 CRUD 기능 구현과 Spring Security를 활용한 인증 시스템
 
 ### **📫 My channels ...**
 
-<div align=left >
-  <img height=180 src="https://github-readme-stats-kohl-mu-19.vercel.app/api?username=glsh0725&show_icons=true" />
-  <img height=180 src="https://github-readme-stats-kohl-mu-19.vercel.app/api/top-langs/?username=glsh0725&layout=compact&exclude_repo=python-practice" />
+<div align="left">
+  <img height="180"
+       src="https://github-readme-stats-kohl-mu-19.vercel.app/api?username=glsh0725&show_icons=true" />
+  <img
+       src="https://github-readme-stats-kohl-mu-19.vercel.app/api/top-langs/?username=glsh0725&layout=compact&langs_count=9&card_width=445" />
 </div>
 
 <a href="https://github.com/glsh0725?tab=repositories">
